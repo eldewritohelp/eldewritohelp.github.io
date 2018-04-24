@@ -260,7 +260,7 @@ for (i = 0; i < acc.length; i++) {
 
 <div id="contact" class="menu-category">
 <h3 class="menu-category-name">Contact</h3>
-<p><a href="https://github.com/derg-ed/derg-ed.github.io/issues/">Report issues here</a></p>
+<p><a href="https://github.com/eldewritohelp/eldewritohelp.github.io/issues">Report issues with this page here</a></p>
 
 </div>
 
