@@ -233,9 +233,11 @@ function closeNav() {
 
 <button class="accordion">Controls</button>
 <div class="panel">
+<ul>
   <li><a href="https://www.reddit.com/r/HaloOnline/comments/34h205/forge_controls_keyboard/"> Keyboard controls </a></li>
-   <li> <img src="https://cdn.discordapp.com/attachments/434449710846312469/437695959082729492/forge.png" 
+  <li> <img src="https://cdn.discordapp.com/attachments/434449710846312469/437695959082729492/forge.png" 
              alt="controls" /> </li> 
+</ul>
 </div>
 
 <button class="accordion">Subection 3</button>
