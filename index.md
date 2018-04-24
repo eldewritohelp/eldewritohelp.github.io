@@ -230,7 +230,10 @@ function closeNav() {
 </div>
 <button class="accordion">Port Forwarding</button>
 <div class="panel">
-  <p> <p><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide </a></p> </p>
+<ul>  
+  <li><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide </a></li>
+   <li> <img src="https://i.imgur.com/WpMah4I.png" 
+             alt="Simple Guide" /> </li>
 </div>
 
 <button class="accordion">Subsection 2</button>
@@ -269,9 +272,6 @@ function closeNav() {
 <div class="panel">
   <p> subtext </p>
 </div>
-
-
-
 
 <script>
 var acc = document.getElementsByClassName("accordion");
