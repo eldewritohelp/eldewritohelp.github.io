@@ -262,6 +262,7 @@ function closeNav() {
       <li> Navigate to wherever you've saved eldorado and then paste file in the root folder. (the one that has the ElDorado.exe application). </li>
       <li> Rename the file to autoexec.cfg </li>
       <li> If you delete that autoexec, you will loose your stats again </li>
+    </ol>
 </div>
 <button class="accordion">Subsection 2</button>
 <div class="panel">
