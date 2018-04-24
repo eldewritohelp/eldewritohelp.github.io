@@ -61,19 +61,16 @@ body {
   <p>Resize the browser window to see how it works.</p>
 </div>
 
-<h2>Animated Sidenav Example</h2>
-<p>Click on the element below to open the side navigation menu.</p>
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
 
 <script>
-function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
-}
-
-function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-}
-</script>
+function myFunction() {
+    var x = document.getElementById("sidenav");
+    if (x.className === "sidenav") {
+        x.className += " responsive";
+    } else {
+        x.className = "sidenav";
+    }
 
 
 <head>
