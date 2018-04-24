@@ -59,8 +59,8 @@ body {
   <a href="#contact">Contact</a>
 </div>
 
-<h2>Animated Sidenav Example</h2>
-<p>Click on the element below to open the side navigation menu.</p>
+<h2>Header</h2>
+<p>Text</p>
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
 
 <script>
