@@ -72,14 +72,6 @@ function myFunction() {
 }
 </script>
 
-<head>
-    function w3_open() {
-    document.getElementById("sidenav").style.display = "block";
-}
-function w3_close() {
-    document.getElementById("sidenav").style.display = "none";
-}
-    </head>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
