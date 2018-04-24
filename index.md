@@ -124,14 +124,15 @@ function closeNav() {
 <div id="install" class="menu-category">
 <h2 class="menu-category-name">Installation Issues</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">Download-related issues</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> <p><a href="https://www.reddit.com/r/HaloOnline/wiki/index/download">Did you follow this guide?</a></p>
+ </p>
 </div>
 
-<button class="accordion">Subsection 2</button>
+<button class="accordion">Antivirus</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> Antivirus fix: To allow updater with malwarebytes: go to "Settings" on right side. Then, Choose "Exclusions" on the top tab. Click, "Add Exclusion" at the bottom. Choose "Exclude a File or Folder". Then choose the Updater.exe in the brower. Similar process with other antivirus programs; they should give a notice of what file was removed, which will need to be added to the exclusion list.</p>
 </div>
 
 <button class="accordion">Subection 3</button>
@@ -188,13 +189,13 @@ function closeNav() {
 <div class="panel">
  <ul>
   <li>In graphic settings, change the FPS fix setting and restart the game.</li>
-  <li>In Console (F1 key) change the Game.FPSlimiter value to 0 and restart the game.</li>
+  <li>In Console (~ or F1 key) type Game.FPSlimiter 0 and then type writeconfig and then restart the game.</li>
   <li>Overlays crash on decrease fps. (discord, steam, etc)</li>
-  <li> right click eldorado -> properties; "disable full screen optimizations" </li> 
-  <li> Engine physics tied to FPS, do not try to go over 60FPS </li>
+  <li> Right click eldorado -> properties; "disable full screen optimizations" </li> 
+  <li> Engine physics tied to FPS, do not try to go over 60FPS </li>\
+  <li> Try toggling the windowed mode option (the game does not run in true fullscreen, only windowed fullscreen) </li>
 </ul> 
 </div>
-
 <button class="accordion">Black Screen</button>
 <div class="panel">
   <p> Black screen with scoreboard up: in console (F1 key) type game.stop </p>
@@ -203,6 +204,13 @@ function closeNav() {
 <button class="accordion">High brightness</button>
 <div class="panel">
   <p> Settings menu > video > bloom patch </p>
+</div>
+<button class="accordion">Slow load times</button>
+<div class="panel">
+<ul>
+    <li>In Console (~ or F1 key) type Game.FPSlimiter 0 and then type writeconfig and then restart the game.</li>
+    <li>Move Halo Online folder to desktop and/or SSD </li>
+</ul>
 </div>
 
 
