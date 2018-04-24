@@ -141,11 +141,6 @@ function closeNav() {
   <p> Antivirus fix: To allow updater with malwarebytes: go to "Settings" on right side. Then, Choose "Exclusions" on the top tab. Click, "Add Exclusion" at the bottom. Choose "Exclude a File or Folder". Then choose the Updater.exe in the brower. Similar process with other antivirus programs; they should give a notice of what file was removed, which will need to be added to the exclusion list.</p>
 </div>
 
-<button class="accordion">Subsection 3</button>
-<div class="panel">
-  <p> subtext </p>
-</div>
-
 
 
 <div id="launch" class="menu-category">
@@ -162,11 +157,6 @@ function closeNav() {
    <li>If your game is crashing, make sure the file path to the Halo Online folder doesn't contain any characters like ä or ö </li>
        <li> Crashing with steam? Game needs to be run as administrator </li>   
     </ul>
-</div>
-
-<button class="accordion">Subsection 3</button>
-<div class="panel">
-  <p> subtext </p>
 </div>
 
 
@@ -284,14 +274,9 @@ function closeNav() {
 </ul>
 </div>
 
-<button class="accordion">Subsection 2</button>
+<button class="accordion">Errors</button>
 <div class="panel">
-  <p> subtext </p>
-</div>
-
-<button class="accordion">Subsection 3</button>
-<div class="panel">
-  <p> subtext </p>
+  <p> Make sure DirectX 9 June 2010 update is installed </p>
 </div>
 
 
