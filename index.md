@@ -322,7 +322,7 @@ function closeNav() {
 
 <button class="accordion">How to change server browser</button>
 <div class="panel">
-  <p> open dewrito_prefs.cfg, change first line to Game.MenuURL "URL here" </p>
+  <p> open dewrito_prefs.cfg, change first line to Game.MenuURL "URL_here" </p>
 </div>
 
 <script>
