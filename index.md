@@ -224,7 +224,7 @@ Disable all other Playback Devices in Windows settings except for the ONE device
   <li>In Console (~ or F1 key) type Game.FPSlimiter 0 and then type writeconfig and then restart the game.</li>
   <li>Overlays crash on decrease fps. (discord, steam, etc)</li>
   <li> Right click eldorado -> properties; "disable full screen optimizations" </li> 
-  <li> Engine physics tied to FPS, do not try to go over 60FPS </li>\
+  <li> Engine physics tied to FPS, do not try to go over 60FPS </li>
   <li> Try toggling the windowed mode option (the game does not run in true fullscreen, only windowed fullscreen) </li>
 </ul> 
 </div>
@@ -236,7 +236,10 @@ Disable all other Playback Devices in Windows settings except for the ONE device
 
 <button class="accordion">Black Screen</button>
 <div class="panel">
-  <p> Black screen with scoreboard up: in console (F1 key) type game.stop </p>
+<ul>
+  <li> Black screen with scoreboard up: in console (F1 key) type game.stop </li>
+  <li>In Console (~ or F1 key) type Game.FPSlimiter 0 and then type writeconfig and then restart the game.</li>
+</ul>
 </div>
 
 <button class="accordion">High brightness</button>
