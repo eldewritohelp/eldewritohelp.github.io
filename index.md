@@ -225,10 +225,7 @@ function closeNav() {
 
 <button class="accordion">Save locations</button>
 <div class="panel">
-<ul>
-    <li> Forge prefabs go in ElDewrito/mods/prefabs/stuf.prefab </li>
-    <li> Forge savefiles go as ElDewrito/mods/maps/<mapName>/sandbox.map </li>
-    </ul>
+
 </div>
 
 <button class="accordion">Controls</button>
@@ -236,14 +233,9 @@ function closeNav() {
 <ul>
   <li><a href="https://www.reddit.com/r/HaloOnline/comments/34h205/forge_controls_keyboard/"> Keyboard controls </a></li>
   <li> <img src="https://cdn.discordapp.com/attachments/434449710846312469/437695959082729492/forge.png" 
-             alt="controls" /></li> 
-</ul>
+             alt="controls" /></li> </ul>
 </div>
 
-<button class="accordion">Subection 3</button>
-<div class="panel">
-  <p> subtext </p>
-</div>
 
 
 
