@@ -144,9 +144,9 @@ function closeNav() {
 <div id="launch" class="menu-category">
 <h2 class="menu-category-name">Game Launch Issues</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">Black Screen</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> Black screen on first launch: Steam or other overlays crash it. First time playing? Post your CPU and GPU models.</p>
 </div>
 
 <button class="accordion">Subsection 2</button>
@@ -184,14 +184,19 @@ function closeNav() {
 <div id="performance" class="menu-category">
 <h2 class="menu-category-name">Performance Issues</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">FPS</button>
 <div class="panel">
-  <p> subtext </p>
+ <ol>
+  <li>In graphic settings, change the FPS fix setting and restart the game.</li>
+  <li>In Console (F1 key) change the Game.FPSlimiter value and restart the game.</li>
+  <li>Overlays crash on decrease fps. (discord, steam, etc)</li>
+  <li> right click eldorado -> properties; "disable full screen optimizations" </li> 
+</ol> 
 </div>
 
-<button class="accordion">Subsection 2</button>
+<button class="accordion">Black Screen</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> Black screen with scoreboard up: in console (F1 key) type game.stop </p>
 </div>
 
 <button class="accordion">Subection 3</button>
