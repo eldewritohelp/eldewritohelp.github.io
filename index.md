@@ -148,7 +148,12 @@ function closeNav() {
 </div>
 <button class="accordion">Black Screen</button>
 <div class="panel">
-  <p> Black screen on first launch: Steam or other overlays crash it. First time playing? Post your CPU and GPU models.</p>
+  <ul> 
+      <li>Black screen on first launch: Steam or other overlays crash it. First time playing? Post your CPU and GPU models.</li>
+    <li> There's a problem with higher end GPU's where graphics break completely or blackscreen on boot. There's no fix as 
+this is an unoptimised alpha build which has poor AMD and Intel GPU support which ElDewrito devs sadly can't fix without source code.
+Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thousands of bug reports, it won't be fixed soon.</li>
+      </ul>
 </div>
 
 <button class="accordion">Crashing</button>
@@ -164,8 +169,6 @@ function closeNav() {
   <p> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game. 
       <br>If you installed just ms23, you need to download the updater and run it for the game to work.</p>
 </div>
-
-
 
 <div id="connect" class="menu-category">
 <h2 class="menu-category-name">Connection Issues</h2>
