@@ -120,10 +120,12 @@ function closeNav() {
 </head>
 
 
+
 <body>
 <div id="install" class="menu-category">
 <h2 class="menu-category-name">Installation Issues</h2>
 </div>
+    
 <button class="accordion">Download-related issues</button>
 <div class="panel">
   <p> <p><a href="https://www.reddit.com/r/HaloOnline/wiki/index/download">Did you follow this guide?</a></p>
@@ -185,6 +187,7 @@ function closeNav() {
 <div id="performance" class="menu-category">
 <h2 class="menu-category-name">Performance Issues</h2>
 </div>
+
 <button class="accordion">FPS</button>
 <div class="panel">
  <ul>
@@ -196,6 +199,7 @@ function closeNav() {
   <li> Try toggling the windowed mode option (the game does not run in true fullscreen, only windowed fullscreen) </li>
 </ul> 
 </div>
+
 <button class="accordion">Black Screen</button>
 <div class="panel">
   <p> Black screen with scoreboard up: in console (F1 key) type game.stop </p>
@@ -218,20 +222,27 @@ function closeNav() {
 <div id="forge" class="menu-category">
 <h2 class="menu-category-name">Forge</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+
+<button class="accordion">Save locations</button>
 <div class="panel">
-  <p> subtext </p>
+<ul>  
+    <li> Forge prefabs go in ElDewrito/mods/prefabs/stuf.prefab </li>
+    <li> Forge savefiles go as ElDewrito/mods/maps/<mapName>/sandbox.map </li>
+</ul>
 </div>
 
-<button class="accordion">Subsection 2</button>
+<button class="accordion">Controls</button>
 <div class="panel">
-  <p> subtext </p>
+  <li><a href="https://www.reddit.com/r/HaloOnline/comments/34h205/forge_controls_keyboard/"> CKeyboard controls, control controls in comments </a></li>
+   <li> <img src="https://cdn.discordapp.com/attachments/434449710846312469/437695959082729492/forge.png" 
+             alt="controls" /> </li> 
 </div>
 
 <button class="accordion">Subection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
+
 
 
 <div id="hosting" class="menu-category">
@@ -273,15 +284,17 @@ function closeNav() {
       <li> If you delete that autoexec, you will loose your stats again </li>
     </ol>
 </div>
+
 <button class="accordion">H3 Weapons crash</button>
 <div class="panel">
   <p> Run FMM as admin and reinstall. </p>
 </div>
+
 <button class="accordion">XBone Controller not detected</button>
 <div class="panel">
   <p> There's been issues with xbox one controllers, we don't know what causes the game to not pick them up </p>
 </div>
-</div>
+
 <button class="accordion">Settings not saving</button>
 <div class="panel">
   <p> Move the game out of Program Files. Check if the files or folders are read-only. Test: Run eldorado.exe as admin </p>
