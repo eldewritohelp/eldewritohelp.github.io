@@ -188,9 +188,10 @@ function closeNav() {
 <div class="panel">
  <ul>
   <li>In graphic settings, change the FPS fix setting and restart the game.</li>
-  <li>In Console (F1 key) change the Game.FPSlimiter value and restart the game.</li>
+  <li>In Console (F1 key) change the Game.FPSlimiter value to 0 and restart the game.</li>
   <li>Overlays crash on decrease fps. (discord, steam, etc)</li>
   <li> right click eldorado -> properties; "disable full screen optimizations" </li> 
+  <li> Engine physics tied to FPS, do not try to go over 60FPS </li>
 </ul> 
 </div>
 
@@ -199,9 +200,9 @@ function closeNav() {
   <p> Black screen with scoreboard up: in console (F1 key) type game.stop </p>
 </div>
 
-<button class="accordion">Subection 3</button>
+<button class="accordion">High brightness</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> Settings menu > video > bloom patch </p>
 </div>
 
 
@@ -231,7 +232,7 @@ function closeNav() {
 <button class="accordion">Port Forwarding</button>
 <div class="panel">
 <ul>  
-  <li><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide </a></li>
+  <li><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide, including a link for dedicated server hosting </a></li>
    <li> <img src="https://i.imgur.com/WpMah4I.png" 
              alt="Simple Guide" /> </li> 
 </ul>
@@ -264,13 +265,18 @@ function closeNav() {
       <li> If you delete that autoexec, you will loose your stats again </li>
     </ol>
 </div>
-<button class="accordion">Subsection 2</button>
+<button class="accordion">H3 Weapons crash</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> Run FMM as admin and reinstall. </p>
 </div>
-<button class="accordion">Subection 3</button>
+<button class="accordion">XBone Controller not detected</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> There's been issues with xbox one controllers, we don't know what causes the game to not pick them up </p>
+</div>
+</div>
+<button class="accordion">Settings not saving</button>
+<div class="panel">
+  <p> Move the game out of Program Files. Check if the files or folders are read-only. Test: Run eldorado.exe as admin </p>
 </div>
 
 
