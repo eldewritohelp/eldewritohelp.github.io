@@ -189,9 +189,16 @@ function closeNav() {
 <div id="audio" class="menu-category">
 <h2 class="menu-category-name">Audio Issues</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">No sound in game</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> 
+Disable all other Playback Devices in Windows settings except for the ONE device that you want to use.
+<br> Set the ONE device that you want to use as Default.
+<br> Restart the game and verify the Sound settings are set to default.
+<br>If this does not work, try running the game as Administrator.
+<br>
+<br>These settings also work for fixing your microphone, just apply the same idea to Recording Devices
+<br>If you are still having issues, try to DISABLE VOICE CHAT -> APPLY -> ENABLE VOICE CHAT -> APPLY </p>
 </div>
 
 <button class="accordion">Subsection 2</button>
