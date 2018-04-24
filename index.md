@@ -141,7 +141,7 @@ function closeNav() {
   <p> Antivirus fix: To allow updater with malwarebytes: go to "Settings" on right side. Then, Choose "Exclusions" on the top tab. Click, "Add Exclusion" at the bottom. Choose "Exclude a File or Folder". Then choose the Updater.exe in the brower. Similar process with other antivirus programs; they should give a notice of what file was removed, which will need to be added to the exclusion list.</p>
 </div>
 
-<button class="accordion">Subection 3</button>
+<button class="accordion">Subsection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
@@ -164,7 +164,7 @@ function closeNav() {
     </ul>
 </div>
 
-<button class="accordion">Subection 3</button>
+<button class="accordion">Subsection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
@@ -184,7 +184,7 @@ function closeNav() {
   <p> subtext </p>
 </div>
 
-<button class="accordion">Subection 3</button>
+<button class="accordion">Subsection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
@@ -204,7 +204,7 @@ function closeNav() {
   <p> subtext </p>
 </div>
 
-<button class="accordion">Subection 3</button>
+<button class="accordion">Subsection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
@@ -289,7 +289,7 @@ function closeNav() {
   <p> subtext </p>
 </div>
 
-<button class="accordion">Subection 3</button>
+<button class="accordion">Subsection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
