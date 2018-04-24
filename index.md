@@ -7,43 +7,48 @@ body {
 
 .sidenav {
     height: 100%;
-    width: 180px;
+    width: 0;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #212121;
+    background-color: #111;
     overflow-x: hidden;
-    padding-top: 20px;
+    transition: 0.5s;
+    padding-top: 60px;
 }
 
 .sidenav a {
-    padding: 6px 8px 6px 16px;
+    padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 25px;
     color: #818181;
     display: block;
+    transition: 0.3s;
 }
 
 .sidenav a:hover {
     color: #f1f1f1;
 }
 
-.main {
-    margin-left: 180px; /* Same as the width of the sidenav */
-    font-size: 18px; /* Increased text to enable scrolling */
-    padding: 0px 10px;
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
 }
 
 @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 </style>
 </head>
+<body>
 
-
-<div class="sidenav" id="sidenav">
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="#home" class="active">Home</a>
   <a href="#install">Installation issues</a>
   <a href="#launch">Launch issues</a>
@@ -52,26 +57,23 @@ body {
   <a href="#forge">Forge</a>
   <a href="#hosting">Server hosting</a>
   <a href="#contact">Contact</a>
-  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
-<div style="padding-left:16px">
-<div id="home" class="menu-category">
-<h2 class="menu-category-name">Home</h2>
-  <p>Resize the browser window to see how it works.</p>
-</div>
-
-
+<h2>Animated Sidenav Example</h2>
+<p>Click on the element below to open the side navigation menu.</p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
 
 <script>
-function myFunction() {
-    var x = document.getElementById("sidenav");
-    if (x.className === "sidenav") {
-        x.className += " responsive";
-    } else {
-        x.className = "sidenav";
-    }
+function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+}
 
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+     
+</body>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
