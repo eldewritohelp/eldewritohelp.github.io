@@ -235,6 +235,7 @@ function closeNav() {
   <li><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide </a></li>
    <li> <img src="https://i.imgur.com/WpMah4I.png" 
              alt="Simple Guide" /> </li> </div>
+</ul>
 
 <button class="accordion">Subsection 2</button>
 <div class="panel">
@@ -262,21 +263,19 @@ function closeNav() {
       <li> Rename the file to autoexec.cfg </li>
       <li> If you delete that autoexec, you will loose your stats again </li>
 </div>
-
 <button class="accordion">Subsection 2</button>
 <div class="panel">
   <p> subtext </p>
 </div>
-
 <button class="accordion">Subection 3</button>
 <div class="panel">
   <p> subtext </p>
 </div>
 
+
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
-
 for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
     this.classList.toggle("active");
@@ -295,7 +294,6 @@ for (i = 0; i < acc.length; i++) {
 <div id="contact" class="menu-category">
 <h3 class="menu-category-name">Contact</h3>
 <p><a href="https://github.com/eldewritohelp/eldewritohelp.github.io/issues">Report issues with this page here</a></p>
-
 </div>
 
               
