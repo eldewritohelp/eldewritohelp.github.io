@@ -149,9 +149,9 @@ function closeNav() {
   <p> Black screen on first launch: Steam or other overlays crash it. First time playing? Post your CPU and GPU models.</p>
 </div>
 
-<button class="accordion">Subsection 2</button>
+<button class="accordion">Crashing</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> If your game is crashing, make sure the file path to the Halo Online folder doesn't contain any characters like ä or ö </p>
 </div>
 
 <button class="accordion">Subection 3</button>
@@ -186,12 +186,12 @@ function closeNav() {
 </div>
 <button class="accordion">FPS</button>
 <div class="panel">
- <ol>
+ <ul>
   <li>In graphic settings, change the FPS fix setting and restart the game.</li>
   <li>In Console (F1 key) change the Game.FPSlimiter value and restart the game.</li>
   <li>Overlays crash on decrease fps. (discord, steam, etc)</li>
   <li> right click eldorado -> properties; "disable full screen optimizations" </li> 
-</ol> 
+</ul> 
 </div>
 
 <button class="accordion">Black Screen</button>
@@ -228,9 +228,9 @@ function closeNav() {
 <div id="hosting" class="menu-category">
 <h2 class="menu-category-name">Server Hosting</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">Port Forwarding</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> <p><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide </a></p> </p>
 </div>
 
 <button class="accordion">Subsection 2</button>
@@ -248,9 +248,16 @@ function closeNav() {
 <div id="other" class="menu-category">
 <h2 class="menu-category-name">Other issues</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">Emblems and stats reset</button>
 <div class="panel">
-  <p> subtext </p>
+  <ol>
+      <li> Press Win + R from desktop to open run dialog box </li>
+      <li> Type "%localappdata%" with no quotes then press enter. </li>
+      <li> Navigate to the ElDewrito folder (...AppData\Local\ElDewrito) </li>
+      <li> Right click keys.cfg and click "Copy" </li>
+      <li> Navigate to wherever you've saved eldorado and then paste file in the root folder. (the one that has the ElDorado.exe application). </li>
+      <li> Rename the file to autoexec.cfg </li>
+      <li> If you delete that autoexec, you will loose your stats again </li>
 </div>
 
 <button class="accordion">Subsection 2</button>
