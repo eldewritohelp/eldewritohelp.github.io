@@ -53,6 +53,7 @@ body {
   <a href="#install">Installation issues</a>
   <a href="#launch">Launch issues</a>
   <a href="#connect">Connection issues</a>
+  <a href="#audio">Audio issues</a>
   <a href="#performance">Performance issues</a>
   <a href="#forge">Forge</a>
   <a href="#hosting">Server hosting</a>
@@ -171,6 +172,26 @@ function closeNav() {
 
 <div id="connect" class="menu-category">
 <h2 class="menu-category-name">Connection Issues</h2>
+</div>
+<button class="accordion">Subsection 1</button>
+<div class="panel">
+  <p> subtext </p>
+</div>
+
+<button class="accordion">Subsection 2</button>
+<div class="panel">
+  <p> subtext </p>
+</div>
+
+<button class="accordion">Subection 3</button>
+<div class="panel">
+  <p> subtext </p>
+</div>
+
+
+
+<div id="audio" class="menu-category">
+<h2 class="menu-category-name">Audio Issues</h2>
 </div>
 <button class="accordion">Subsection 1</button>
 <div class="panel">
