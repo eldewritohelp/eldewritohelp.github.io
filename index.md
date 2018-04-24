@@ -320,6 +320,10 @@ function closeNav() {
   <p> Move the game out of Program Files. Check if the files or folders are read-only. Test: Run eldorado.exe as admin </p>
 </div>
 
+<button class="accordion">How to change server browser</button>
+<div class="panel">
+  <p> open dewrito_prefs.cfg, change first line to Game.MenuURL "URL here" </p>
+</div>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
