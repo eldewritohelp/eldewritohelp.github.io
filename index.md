@@ -225,6 +225,10 @@ function closeNav() {
 
 <button class="accordion">Save locations</button>
 <div class="panel">
+    <ol>
+        <li> Forge prefabs go in ElDewrito/mods/prefabs/stuf.prefab </li>
+        <li> Forge savefiles go as ElDewrito/mods/maps/<mapName>/sandbox.map </li>
+    </ol>
 </div>
 
 <button class="accordion">Controls</button>
@@ -240,10 +244,6 @@ function closeNav() {
 
 <div id="hosting" class="menu-category">
 <h2 class="menu-category-name">Server Hosting</h2>
-    <ol>
-        <li> Forge prefabs go in ElDewrito/mods/prefabs/stuf.prefab </li>
-        <li> Forge savefiles go as ElDewrito/mods/maps/<mapName>/sandbox.map </li>
-    </ol>
 </div>
 
 <button class="accordion">Port Forwarding</button>
