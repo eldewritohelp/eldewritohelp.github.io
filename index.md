@@ -161,7 +161,7 @@ function closeNav() {
 
 <button class="accordion">Nothing happens</button>
 <div class="panel">
-  <p> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game. </p>
+  <p> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game. If you installed just ms23, you need to download the updater and run it for the game to work.</p>
 </div>
 
 
@@ -222,6 +222,11 @@ function closeNav() {
 </ul> 
 </div>
 
+<button class="accordion">Input lag</button>
+<div class="panel">
+ <p><a href="https://pastebin.com/EdtCNngk">Try the solutions in this pastebin</a></p> 
+</div>
+
 <button class="accordion">Black Screen</button>
 <div class="panel">
   <p> Black screen with scoreboard up: in console (F1 key) type game.stop </p>
@@ -261,7 +266,7 @@ function closeNav() {
   <li><a href="https://www.reddit.com/r/HaloOnline/comments/34h205/forge_controls_keyboard/"> Keyboard controls </a></li>
   <li> <img src="https://i.imgur.com/PvHDVqi.png" 
              alt="controls" /></li> 
-     <li> <img src="https://https://i.imgur.com/CKzo5te.png" 
+     <li> <img src="https://i.imgur.com/CKzo5te.png" 
              alt="controls" /></li>  
     </ul>
 </div>
