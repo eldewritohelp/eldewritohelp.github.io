@@ -157,7 +157,9 @@ function closeNav() {
 
 <button class="accordion">Crashing</button>
 <div class="panel">
-  <p> If your game is crashing, make sure the file path to the Halo Online folder doesn't contain any characters like ä or ö </p>
+   <ul>
+   <li>If your game is crashing, make sure the file path to the Halo Online folder doesn't contain any characters like ä or ö </li>
+       <li> Crashing with steam? Game needs to be run as administrator </li>    
 </div>
 
 <button class="accordion">Subection 3</button>
