@@ -161,7 +161,7 @@ function closeNav() {
 
 <button class="accordion">Nothing happens</button>
 <div class="panel">
-  <p> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game (and ensure download is from link above). </p>
+  <p> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game. </p>
 </div>
 
 
