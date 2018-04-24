@@ -233,7 +233,7 @@ function closeNav() {
 
 <button class="accordion">Controls</button>
 <div class="panel">
-  <li><a href="https://www.reddit.com/r/HaloOnline/comments/34h205/forge_controls_keyboard/"> CKeyboard controls, control controls in comments </a></li>
+  <li><a href="https://www.reddit.com/r/HaloOnline/comments/34h205/forge_controls_keyboard/"> Keyboard controls </a></li>
    <li> <img src="https://cdn.discordapp.com/attachments/434449710846312469/437695959082729492/forge.png" 
              alt="controls" /> </li> 
 </div>
