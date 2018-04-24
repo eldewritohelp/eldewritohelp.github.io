@@ -60,8 +60,8 @@ body {
   <a href="#contact">Contact</a>
 </div>
 
-<h1>Header</h1>
-<p>Text</p>
+<h1>El Dewrito 0.6 Help</h1>
+<p>This is an unofficial compilation of commonly seen issues with ED 0.6 for Halo Online</p>
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
 
 <script>
