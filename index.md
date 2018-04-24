@@ -56,6 +56,7 @@ body {
   <a href="#performance">Performance issues</a>
   <a href="#forge">Forge</a>
   <a href="#hosting">Server hosting</a>
+  <a href="#hosting">Other</a>
   <a href="#contact">Contact</a>
 </div>
 
@@ -219,7 +220,6 @@ function closeNav() {
 </div>
 
 
-
 <div id="hosting" class="menu-category">
 <h2 class="menu-category-name">Server Hosting</h2>
 </div>
@@ -237,6 +237,27 @@ function closeNav() {
 <div class="panel">
   <p> subtext </p>
 </div>
+
+
+
+<div id="other" class="menu-category">
+<h2 class="menu-category-name">Other issues</h2>
+</div>
+<button class="accordion">Subsection 1</button>
+<div class="panel">
+  <p> subtext </p>
+</div>
+
+<button class="accordion">Subsection 2</button>
+<div class="panel">
+  <p> subtext </p>
+</div>
+
+<button class="accordion">Subection 3</button>
+<div class="panel">
+  <p> subtext </p>
+</div>
+
 
 
 
