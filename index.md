@@ -207,7 +207,7 @@ function closeNav() {
 
 <button class="accordion">High brightness</button>
 <div class="panel">
-  <p> Settings menu > video > bloom patch </p>
+  <p> Settings menu > video > bloom patch; may need to restart game </p>
 </div>
 <button class="accordion">Slow load times</button>
 <div class="panel">
