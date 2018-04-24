@@ -229,13 +229,13 @@ function closeNav() {
 <h2 class="menu-category-name">Server Hosting</h2>
 </div>
 <button class="accordion">Port Forwarding</button>
-
 <div class="panel">
 <ul>  
   <li><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide </a></li>
    <li> <img src="https://i.imgur.com/WpMah4I.png" 
-             alt="Simple Guide" /> </li> </div>
+             alt="Simple Guide" /> </li> 
 </ul>
+</div>
 
 <button class="accordion">Subsection 2</button>
 <div class="panel">
