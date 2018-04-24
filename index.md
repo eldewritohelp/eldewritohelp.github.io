@@ -79,7 +79,7 @@ function myFunction() {
 function w3_close() {
     document.getElementById("sidenav").style.display = "none";
 }
-    </head?
+    </head>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
