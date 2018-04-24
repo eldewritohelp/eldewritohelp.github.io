@@ -59,7 +59,7 @@ body {
   <a href="#contact">Contact</a>
 </div>
 
-<h2>Header</h2>
+<h1>Header</h1>
 <p>Text</p>
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
 
