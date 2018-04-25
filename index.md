@@ -215,7 +215,6 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
   <li> Engine physics tied to FPS, do not try to go over 60FPS </li>
   <li> Try toggling the windowed mode option (the game does not run in true fullscreen, only windowed fullscreen) </li>
   <li> Try running as administrator </li>
-  <li> Set custom_menu.exe to low priority. You can also close it, but then you won't be able to load any menus, so only do this once in-game. </li>
 </ul> 
 </div>
 
