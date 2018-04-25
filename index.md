@@ -290,6 +290,21 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 </div>
 
 
+<button class="accordion">How to download and install custom maps and gametypes</button>
+<div class="panel">
+    <p>
+Maps/Variants can be downloaded from other users on this website: https://www.forgehub.com/
+<br>Keep in mind there are uploads on this website that are not for ElDewrito 0.6. I don't think there is a "good" way to filter the search yet.
+<br>
+<br>Folder location for putting maps/variants/prefabs: https://imgur.com/XyNdUx0
+<br>
+<br>Here are some commonly downloaded map packs:
+<br>https://mega.nz/#!C8cSjQJJ!XOxdwTa1ChSnJj2LEYIvPHNg1ORimIlqqQWTFs7GaNk - MLG Maps and Variants [Created by SimplyStats]
+<br> https://www.forgehub.com/maps/0-6-release-mappack.6220/ - 24 maps, 5 variants, 64 prefabs. [Created by Clutchism]
+    </p>
+    </div>
+
+
 
 
 <div id="hosting" class="menu-category">
