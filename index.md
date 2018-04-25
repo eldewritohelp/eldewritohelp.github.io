@@ -302,6 +302,7 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
   <li><a href="https://www.reddit.com/r/HaloOnline/comments/8e93i4/halo_online_eldewrito_port_forwarding_in_depth/"> Comprehensive port forwarding guide, including a link for dedicated server hosting </a></li>
    <li> <img src="https://i.imgur.com/WpMah4I.png" 
              alt="Simple Guide" /> </li> 
+    <li> <a href="https://www.yougetsignal.com/tools/open-ports/"> Use this to check that ports UDP 11772 and TCP 11775 and 11777 are open. </a></li>
 </ul>
 </div>
 
