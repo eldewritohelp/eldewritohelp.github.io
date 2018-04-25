@@ -388,9 +388,10 @@ for (i = 0; i < acc.length; i++) {
 <p><a href="https://github.com/eldewritohelp/eldewritohelp.github.io/issues">Report issues with this page here</a></p>
 </div>
 
+<!
 <div id="credits" class="menu-category">
 <h3 class="menu-category-name">Credits</h3>
 <p>This FAQ was compiled with the help of Zahti, Felipe, and Queen Yukiko on the Halo Online Discord</p>
-</div>
+</div>>
               
           
