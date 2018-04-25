@@ -132,7 +132,7 @@ function closeNav() {
     
 <button class="accordion">Download-related issues</button>
 <div class="panel">
-  <p> <p><a href="https://www.reddit.com/r/HaloOnline/wiki/index/download">Did you follow this guide?</a></p>
+  <p> <p><a href="https://www.reddit.com/r/HaloOnline/wiki/index/download">Did you follow this guide? Due to IP concerns by Microsoft, the links to download the version of Halo Online (ms23_106708) needed to run this mod will not be distributed. The links to download the mod itself (El Dewrito 0.6), however, are still available. </a></p>
  </p>
 </div>
 
@@ -179,16 +179,6 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
   <p> Try alt+tabbing out and back into the game </p>
 </div>
 
-<button class="accordion">Subsection 2</button>
-<div class="panel">
-  <p> subtext </p>
-</div>
-
-<button class="accordion">Subsection 3</button>
-<div class="panel">
-  <p> subtext </p>
-</div>
-
 
 
 <div id="audio" class="menu-category">
@@ -206,16 +196,6 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 <br>If you are still having issues, try to DISABLE VOICE CHAT -> APPLY -> ENABLE VOICE CHAT -> APPLY  </li>
 <li> Try restarting the game </li>
      </ul>
-</div>
-
-<button class="accordion">Subsection 2</button>
-<div class="panel">
-  <p> subtext </p>
-</div>
-
-<button class="accordion">Subsection 3</button>
-<div class="panel">
-  <p> subtext </p>
 </div>
 
 
