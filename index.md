@@ -174,9 +174,9 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 <div id="connect" class="menu-category">
 <h2 class="menu-category-name">Connection Issues</h2>
 </div>
-<button class="accordion">Subsection 1</button>
+<button class="accordion">Scoreboard or loading screen stuck while joining game</button>
 <div class="panel">
-  <p> subtext </p>
+  <p> Try alt+tabbing out and back into the game </p>
 </div>
 
 <button class="accordion">Subsection 2</button>
