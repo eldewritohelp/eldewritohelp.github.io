@@ -63,7 +63,7 @@ body {
 
 <h1>El Dewrito 0.6 Help</h1>
 <p>This is an unofficial compilation of commonly seen issues with ED 0.6 for Halo Online. <a href="https://imgur.com/a/WAHDW1d">If you haven't already done so, please read through this guide.</a></p>
-<p><a href="https://pastebin.com/ufgDEUha">Link to a pastebin MegaFAQ with possible solutions</a></p>
+<p><a href="https://gist.github.com/dany5639/7807e2d094f8823a30bf4ac027f9b2ec">Link to a gist MegaFAQ with most possible solutions</a></p>
 
 
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
