@@ -237,7 +237,8 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 
 <button class="accordion">Input lag</button>
 <div class="panel">
- <p><a href="https://pastebin.com/EdtCNngk">Try the solutions in this pastebin</a></p> 
+ <p><a href="https://pastebin.com/EdtCNngk">Try the solutions in this pastebin</a>
+    <br> Try running in Windows XP compatibility mode</p> 
 </div>
 
 <button class="accordion">Black Screen</button>
