@@ -132,8 +132,8 @@ function closeNav() {
     
 <button class="accordion">Download-related issues</button>
 <div class="panel">
-  <p> <p><a href="https://www.reddit.com/r/HaloOnline/wiki/index/download">Did you follow this guide? Due to IP concerns by Microsoft, the links to download the version of Halo Online (ms23_106708) needed to run this mod will not be distributed. The links to download the mod itself (El Dewrito 0.6), however, are still available. </a></p>
- </p>
+  <p> <p><a href="https://www.reddit.com/r/HaloOnline/wiki/index/download">Did you follow this guide? </a></p>
+ <p>Due to IP concerns by Microsoft, the links to download the version of Halo Online (ms23_106708) needed to run this mod will not be distributed. The links to download the mod itself (El Dewrito 0.6), however, are still available. </p>
 </div>
 
 <button class="accordion">Antivirus</button>
