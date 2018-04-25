@@ -154,6 +154,7 @@ function closeNav() {
 this is an unoptimised alpha build which has poor AMD and Intel GPU support which ElDewrito devs sadly can't fix without source code.
 Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thousands of bug reports, it won't be fixed soon.</li>
       <li> Try this: Cut and paste dewrito_prefs.cfg outside of the folder for backup, launch the game. If it doesn't work, put the file back. </li>
+      <li> In Console (~ or F1 key) type Game.FPSlimiter 0 and then type writeconfig and then restart the game.</li>
       </ul>
 </div>
 
