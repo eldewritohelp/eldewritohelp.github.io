@@ -284,7 +284,10 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 <br><a href="https://www.forgehub.com/maps/0-6-release-mappack.6220"> 24 maps, 5 variants, 64 prefabs. [Created by Clutchism] </a>
     </p>
     </div>
-
+<button class="accordion">Forge hosting/multiplayer</button>
+<div class="panel">
+<p> Don't create a server for hosting forge - this causes desync issues and there is no fix for it right now. There is no multiplayer forge at the moment. </p>
+    </div>
 
 
 
