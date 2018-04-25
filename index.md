@@ -233,6 +233,7 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
   <li> Right click eldorado -> properties; "disable full screen optimizations" </li> 
   <li> Engine physics tied to FPS, do not try to go over 60FPS </li>
   <li> Try toggling the windowed mode option (the game does not run in true fullscreen, only windowed fullscreen) </li>
+     <li> Try running as administrator </li>
 </ul> 
 </div>
 
@@ -293,14 +294,14 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 <button class="accordion">How to download and install custom maps and gametypes</button>
 <div class="panel">
     <p>
-Maps/Variants can be downloaded from other users on this website: https://www.forgehub.com/
-<br>Keep in mind there are uploads on this website that are not for ElDewrito 0.6. I don't think there is a "good" way to filter the search yet.
+<a href="https://www.forgehub.com/"> Maps/Variants can be downloaded from other users on this website </a>
+<br>Keep in mind there are uploads on this website that are not for ElDewrito 0.6. You cannot filter by game yet.
 <br>
-<br>Folder location for putting maps/variants/prefabs: https://imgur.com/XyNdUx0
+<br><a href="https://imgur.com/XyNdUx0">Folder location for putting maps/variants/prefabs</a>
 <br>
 <br>Here are some commonly downloaded map packs:
-<br>https://mega.nz/#!C8cSjQJJ!XOxdwTa1ChSnJj2LEYIvPHNg1ORimIlqqQWTFs7GaNk - MLG Maps and Variants [Created by SimplyStats]
-<br> https://www.forgehub.com/maps/0-6-release-mappack.6220/ - 24 maps, 5 variants, 64 prefabs. [Created by Clutchism]
+<br><a href="https://mega.nz/#!C8cSjQJJ!XOxdwTa1ChSnJj2LEYIvPHNg1ORimIlqqQWTFs7GaNk"> MLG Maps and Variants [Created by SimplyStats] </a>
+<br><a href="https://www.forgehub.com/maps/0-6-release-mappack.6220"> 24 maps, 5 variants, 64 prefabs. [Created by Clutchism] </a>
     </p>
     </div>
 
