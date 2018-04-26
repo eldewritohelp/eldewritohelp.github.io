@@ -335,7 +335,10 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 
 <button class="accordion">XBone Controller not detected</button>
 <div class="panel">
-  <p> There's been issues with xbox one controllers, we don't know what causes the game to not pick them up </p>
+<ul>
+  <li> There's been issues with xbox one controllers, we don't know what causes the game to not pick them up.</li>
+  <li> Try uninstalling xbox 360 controller drivers and restart computer. Make sure controller is plugged in before game is launched. Additionally (and for all controllers), make sure controller drivers are up-to-date. </li>
+</ul>
 </div>
 
 <button class="accordion">Settings not saving</button>
