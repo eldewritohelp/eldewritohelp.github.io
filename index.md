@@ -183,6 +183,14 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
   <p> Try alt+tabbing out and back into the game </p>
 </div>
 
+<button class="accordion">Slow load times</button>
+<div class="panel">
+<ul>
+    <li>In Console (~ or F1 key) type Game.FPSlimiter 0 and then type writeconfig and then restart the game.</li>
+    <li>Move Halo Online folder to desktop and/or SSD </li>
+    <li> Turn off overlays (steam, nvidia, discord, etc) </li>
+</ul>
+</div>
 
 
 <div id="audio" class="menu-category">
