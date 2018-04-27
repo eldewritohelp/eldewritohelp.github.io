@@ -194,11 +194,14 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 <li>Disable all other Playback Devices in Windows settings except for the ONE device that you want to use.
 <br> Set the ONE device that you want to use as Default.
 <br> Restart the game and verify the Sound settings are set to default.
-<br>If this does not work, try running the game as Administrator.
-<br>
-<br>These settings also work for fixing your microphone, just apply the same idea to Recording Devices
+    <br>If this does not work, try running the game as Administrator.</li>
+<li>These settings also work for fixing your microphone, just apply the same idea to Recording Devices
 <br>If you are still having issues, try to DISABLE VOICE CHAT -> APPLY -> ENABLE VOICE CHAT -> APPLY  </li>
-<li> Try restarting the game </li>
+<li>Default Push-to-Talk (PTT) keybinds:
+<br>CAPS LOCK (keyboard)
+<br>Down on D-pad (controller)</li>
+<li> NOTE: A speaker icon WILL NOT show up on Tab/scoreboard for yourself. </li>
+<li> Try restarting the game and running as admin </li>
      </ul>
 </div>
 
