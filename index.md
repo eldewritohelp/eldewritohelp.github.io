@@ -168,8 +168,11 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 
 <button class="accordion">Nothing happens</button>
 <div class="panel">
-  <p> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game. 
-      <br>If you installed just ms23, you need to download the updater and run it for the game to work.</p>
+  <ul>
+  <li> If nothing happens when you open eldorado.exe and you can verify that your antivirus has not removed any files, then this is likely an install issue. Reinstall the game. </li>
+  <li>If you installed just ms23, you need to download the updater and run it for the game to work.</li>
+  <li> If the game crashes and doesn't launch after changing input method to gamepad, go to derito_prefs.cfg and assign a button to Input.ControllerAction "VoiceChat" </li>  
+  </ul>
 </div>
 
 <div id="connect" class="menu-category">
@@ -349,6 +352,11 @@ Report it on /r/HaloOnline bi-weekly thread, we'll verify in time, there's thous
 <button class="accordion">How to change server browser</button>
 <div class="panel">
   <p> open dewrito_prefs.cfg, change first line to Game.MenuURL "URL_here" </p>
+</div>
+
+<button class="accordion">Crashing when changing input method to gamepad</button>
+<div class="panel">
+<p> If the game crashes and doesn't launch after changing input method to gamepad, go to derito_prefs.cfg and assign a button to Input.ControllerAction "VoiceChat" </p>
 </div>
 
 <script>
